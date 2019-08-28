@@ -1,0 +1,6 @@
+alias dc="docker-compose"
+alias dcr="dc run --rm"
+alias dce="dc exec"
+alias b="dcr web bundle exec"
+alias rc="b rails c"
+alias t="dcr rspec bundle exec"
