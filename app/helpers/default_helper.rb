@@ -1,0 +1,3 @@
+module DefaultHelper
+
+end
